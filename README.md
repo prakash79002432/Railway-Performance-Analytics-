@@ -1,3 +1,5 @@
 # Railway-Performance-Analytics-
 
-(Screenshot 2025-04-26 112650.gif)
+## ✨ Screenshots
+
+![Railway Performance Analytics Screenshot](Screenshot%202025-04-26%20112650.gif)
